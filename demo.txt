@@ -1,3 +1,5 @@
 Dev290x
 
 Sample code for testing
+
+Ax = Bx for all x => A = B
